@@ -1,0 +1,15 @@
+{
+  "base_url": "https://www.pinterest.com/search/pins/",
+  "default_limit": 50,
+  "content_filter": "all",
+  "output": {
+    "format": "json",
+    "directory": "data"
+  },
+  "http": {
+    "timeout": 10,
+    "max_retries": 3,
+    "backoff_factor": 0.5,
+    "user_agent": "PinterestSearchScraper/1.0 (+https://bitbash.dev)"
+  }
+}
