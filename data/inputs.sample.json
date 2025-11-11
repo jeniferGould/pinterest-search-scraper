@@ -1,0 +1,12 @@
+[
+  {
+    "query": "mobile wallpapers",
+    "limit": 20,
+    "filter": "all"
+  },
+  {
+    "query": "autumn aesthetic",
+    "limit": 10,
+    "filter": "all"
+  }
+]
